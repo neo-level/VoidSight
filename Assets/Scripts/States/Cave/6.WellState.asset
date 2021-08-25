@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64b9c73cd283f814ead38d5ab0942a70, type: 3}
+  m_Name: 6.WellState
+  m_EditorClassIdentifier: 
+  nextStates:
+  - {fileID: 11400000, guid: f97d087fe991fde43983b278231bd46f, type: 2}
+  - {fileID: 11400000, guid: 68326167ae35c2041856799450ba8af1, type: 2}
+  storyText: 'You made it towards the well. In the distance, you hear the sounds
+    slowly coming closer towards you...
+
+    Next to the well stand a barrel, inside
+    what looks like rotten food.
+
+
+    Looks like I can go down the well.
+
+    1.
+    Go down.
+
+    2. Inspect the barrel.'

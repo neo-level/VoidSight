@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64b9c73cd283f814ead38d5ab0942a70, type: 3}
+  m_Name: 3.ListenState
+  m_EditorClassIdentifier: 
+  nextStates:
+  - {fileID: 11400000, guid: 36b8d6bc3f8b6df48957eaf793396487, type: 2}
+  - {fileID: 11400000, guid: 3b2dbd23bf9dfe04bb3607404b67c34d, type: 2}
+  storyText: 'You hear the whistle of a gentle breeze coming from somewhere over
+    there.
+
+
+    Should I go over there?
+
+    1. Walk towards the breeze.
+
+    2.
+    Stay put.'

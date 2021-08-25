@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64b9c73cd283f814ead38d5ab0942a70, type: 3}
+  m_Name: Introduction
+  m_EditorClassIdentifier: 
+  nextStates:
+  - {fileID: 11400000, guid: b60d2b3e895a5544eb59fdb24edc3117, type: 2}
+  storyText: 'Welcome to this text based game.
+
+
+    It''s a short dark themed game.
+
+
+    At
+    each stage you will be asked to enter a key on the keyboard for example 1 or
+    2.
+
+
+    At any point press "q" to exit.
+
+
+    Press 1 to start.'
